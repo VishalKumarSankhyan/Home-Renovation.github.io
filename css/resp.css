@@ -74,5 +74,10 @@
     .btn--1 input {
         width: 60%;
     }
-    
+    .parha {
+        padding: 0px 50px;
+    }
+    .box-main {
+        max-width: 80%
+    }
 } 
